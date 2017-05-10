@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/ali/.gradle/caches/modules-2/files-2.1/com.google.dagger/dagger/2.8/55a1aa1cdcfd06b9950ca856e2bc2790e105146a/dagger-2.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="55a1aa1cdcfd06b9950ca856e2bc2790e105146a">
+        <dex dex="/home/ali/Development/Studio_Workspace/Androiddagger2Sample/app/build/intermediates/pre-dexed/debug/dagger-2.8_835d6968042af7354eccd98be0d0f93b8f87f666.jar" />
+    </item>
+
+</items>
